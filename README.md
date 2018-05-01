@@ -5,6 +5,7 @@ MNIST is a simple computer vision dataset. It consists of images of handwritten 
 </p>
 <br>
 The MNIST name came from--Modified National Institute of Standards and Technology.
+<br>
 # Library used:
 Tensorflow
 <p align="center">
