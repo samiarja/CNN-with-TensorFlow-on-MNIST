@@ -14,4 +14,4 @@ Tensorflow
 </p>
 <br>
 
-<button class="button-save large">Big Fat Button</button>
+<button class="button-save large">MNIST</button>
