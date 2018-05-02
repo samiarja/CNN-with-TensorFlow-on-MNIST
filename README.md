@@ -8,14 +8,18 @@ Here an example of a  16x16 matrix of the data
 The MNIST name came from--Modified National Institute of Standards and Technology.
 <br>
 
-**Library used:**
+**Python Version** 3.6
 <br>
-**Python**/Tensorflow
+
+***Library used:***
+<br>
+Tensorflow 1.4.0
+<br>
+Refer to for tensorflow installation(https://www.tensorflow.org/install/install_windows)
 <br>
 <p align="center">
   <img src= https://github.com/samiarja/CNN-with-TensorFlow-on-MNIST/blob/master/tf.png />
 </p>
-## Technique used:
 <br>
 ### Hyperparameters used:
 <br>
