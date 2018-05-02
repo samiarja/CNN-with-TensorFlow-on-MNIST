@@ -15,7 +15,8 @@ The MNIST name came from--Modified National Institute of Standards and Technolog
 <br>
 Tensorflow 1.4.0
 <br>
-Refer to for tensorflow installation(https://www.tensorflow.org/install/install_windows)
+
+Refer to for tensorflow installation https://www.tensorflow.org/install/install_windows
 <br>
 <p align="center">
   <img src= https://github.com/samiarja/CNN-with-TensorFlow-on-MNIST/blob/master/tf.png />
