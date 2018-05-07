@@ -22,14 +22,15 @@ Refer to for tensorflow installation https://www.tensorflow.org/install/install_
   <img src= https://github.com/samiarja/CNN-with-TensorFlow-on-MNIST/blob/master/tf.png />
 </p>
 <br>
+
 ### Hyperparameters used:
 <br>
 
-**the learning rate is** 0.001
+* **the learning rate:** 0.001
 <br>
 
-**Training of iterations is** 200000
+* **Training of iterations:** 200000
 <br>
 
-**Batch size of** 128 with 10 steps at a time
+* **Batch size:** 128 with 10 steps at a time
 <br>
